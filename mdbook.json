@@ -15,9 +15,7 @@
     }
   },
   "homepage": "https://github.com/rust-lang/mdBook/",
-  "bin": [
-    "mdbook.exe"
-  ],
+  "bin": ["mdbook.exe"],
   "checkver": {
     "github": "https://github.com/rust-lang/mdBook"
   }
