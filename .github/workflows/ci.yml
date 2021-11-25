@@ -1,4 +1,4 @@
-name: Dprint Check
+name: Prettier Check
 
 on: [push, pull_request]
 
