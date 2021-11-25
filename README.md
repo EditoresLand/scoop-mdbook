@@ -5,7 +5,7 @@
 <div align="center">
 
 ![EditoresLand STARS](https://img.shields.io/github/stars/EditoresLand/scoop-mdbook?style=social)
-![EditoresLand License](https://img.shields.io/githb/license/EditoresLand/scoop-mdbook)
+![EditoresLand License](https://img.shields.io/github/license/EditoresLand/scoop-mdbook)
 
 </div>
 
